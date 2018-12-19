@@ -37,7 +37,6 @@ _ReSharper*/
 /video/Xn.Platform.Presentation.WebVideo/Scripts
 /houtai/Xn.Platform.Presentation.Admin/uploads
 sh.exe.stackdump
-
 /AuthTips/packages/Newtonsoft.Json.10.0.3/*.md
 /AuthTips/packages/Newtonsoft.Json.10.0.3/*.nupkg
 /AuthTips/packages/Newtonsoft.Json.10.0.3/lib/net20/*.dll
@@ -58,4 +57,3 @@ sh.exe.stackdump
 /AuthTips/packages/Newtonsoft.Json.10.0.3/lib/portable-net45+win8+wp8+wpa81/*.xml
 /AuthTips/packages/Newtonsoft.Json.10.0.3/tools/*.ps1
 /AuthTips/packages
-/packages
